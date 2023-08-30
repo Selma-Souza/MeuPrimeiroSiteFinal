@@ -29,6 +29,10 @@ header {
     list-style: none;
 }
 
+ul {
+    text-decoration: none;
+}
+
 li {
     float: left;
     padding: 20px 10px;
