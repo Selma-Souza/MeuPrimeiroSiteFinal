@@ -45,6 +45,9 @@ li:hover > a {
     color: yellow;
 }
 
+a {
+    text-decoration: none;
+}
 
 #img_fundo {
     background-image: url("./img/favela-brasil.jpg");
