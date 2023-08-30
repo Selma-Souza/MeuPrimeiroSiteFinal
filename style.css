@@ -33,7 +33,6 @@ li {
     float: left;
     padding: 20px 10px;
     text-decoration: none;
-    color: white;
 }
 
 li:hover {
@@ -47,6 +46,7 @@ li:hover > a {
 
 a {
     text-decoration: none;
+    color: white;
 }
 
 #img_fundo {
