@@ -37,6 +37,7 @@ li {
 
 li:hover {
     background-color: brown;
+    text-decoration: none;
 }
 
 li:hover > a {
